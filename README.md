@@ -11,6 +11,7 @@ A "skeleton" project from server project which are node/typescript based.
  
 ## How to use
 1. Clone this repo
-2. Delete the git info (`rm -rf ./.git`)
-3. Rename the project to whatever you want
-4. Start coding
+2. Install the dependencies (`./npm install`)
+3. Delete the git info (`rm -rf ./.git`)
+4. Rename the project to whatever you want
+5. Start coding
